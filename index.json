@@ -1,0 +1,11 @@
+{
+  "org": "cantools",
+  "repo": "cantools",
+  "versions": [
+    {
+      "commit": "8d884136f09f6feccdf243eb35d8da57720c2fe5",
+      "tag": "",
+      "parsed_at": "2026-10-17T23:48:13.051306+00:00"
+    }
+  ]
+}
