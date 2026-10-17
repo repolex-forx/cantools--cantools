@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/cantools/cantools/commit/8d884136f09f6feccdf243eb35d8da57720c2fe5",
       "git:hexsha": "8d884136f09f6feccdf243eb35d8da57720c2fe5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T23:48:13.050142+00:00"
     },
     {
       "@id": "https://repolex.ai/r/cantools/cantools/commit/94f6e7f7bd6abdcaabd86d17f36d61bc4d7eed10",
